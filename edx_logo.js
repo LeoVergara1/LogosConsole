@@ -14,7 +14,7 @@
     var defaults = {
         type: 'auto',
         edx_logo_text: 'Want to contribute to edX-platform ? Visit at https://github.com/edx/edx-platform',
-        edx_logo_url: 'https://www.edx.org/sites/default/files/theme/edx-logo-header.png',
+        edx_logo_url: 'http://techminds.com.mx/wp-content/uploads/2016/06/Logo-Makingdevs-square-big-300x300.png',
         open_edx_logo_text: 'POWERED BY OPEN edX',
         open_edx_logo_powered_url: 'https://files.edx.org/openedx-logos/edx-openedx-logo-tag.png',
         open_edx_logo_url: 'https://open.edx.org/sites/all/themes/edx_open/logo.png',
